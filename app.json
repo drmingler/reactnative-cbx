@@ -1,10 +1,10 @@
 {
-  "name": "interview",
-  "displayName": "interview",
   "expo": {
-    "name": "interview",
+    "name": "Interview CubicFox",
     "slug": "interview",
+    "icon": "./logo.png",
     "version": "1.0.0",
+    "sdkVersion": "38.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]

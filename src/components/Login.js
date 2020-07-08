@@ -59,7 +59,7 @@ const Login = ({ navigation }) => {
   return (
     <KeyboardAvoidingView
       style={{ flex: 1 }}
-      behavior={Platform.OS === "ios" ? "padding" : "height"}
+      behavior={Platform.OS === "ios" ? "padding" : null}
     >
       <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
         <View>
